@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b778250530909c344a71f95a6a0f0627, type: 3}
+  m_Name: Voice1
+  m_EditorClassIdentifier: 
+  nullClip: {fileID: 8300000, guid: 55a209edb7cd5264d936cbb457443d14, type: 3}
+  aClip: {fileID: 8300000, guid: 19aae2ffd35905c438a8ba91dbbbb665, type: 3}
+  eClip: {fileID: 8300000, guid: 8aa5559516e1c824dadcbb4595fc8f7c, type: 3}
+  iClip: {fileID: 8300000, guid: 640061907d60400408cb2788416285d3, type: 3}
+  oClip: {fileID: 8300000, guid: 36e40212f3381ab40833f0e6228fe744, type: 3}
+  uClip: {fileID: 8300000, guid: a2c928e250bfeb441b904ce996aef5c1, type: 3}
+  auClip: {fileID: 8300000, guid: 52c0dfb80ef5ec843b34fbd0b4e5eced, type: 3}
+  ouClip: {fileID: 8300000, guid: 52c0dfb80ef5ec843b34fbd0b4e5eced, type: 3}
+  bClip: {fileID: 8300000, guid: 475a3b4f19ac8884aa68f79713821fd3, type: 3}
+  cClip: {fileID: 8300000, guid: 53f9bf9530de5d448b7d93cacbea69c4, type: 3}
+  dClip: {fileID: 8300000, guid: fd2c8e784d7db2d43b86d045647ab5e1, type: 3}
+  fClip: {fileID: 8300000, guid: 4ef70081a6a301d4184688df4365787d, type: 3}
+  gClip: {fileID: 8300000, guid: 73219e50499ca23458e4dd674835f389, type: 3}
+  hClip: {fileID: 8300000, guid: 844326c0d52f3d5498ae2425d6b94afa, type: 3}
+  jClip: {fileID: 8300000, guid: 53f40ca3aeb5312489d932b72b068555, type: 3}
+  kclip: {fileID: 8300000, guid: ef70dd85a662f7444bd22a002fac93b9, type: 3}
+  lClip: {fileID: 8300000, guid: ce914e730a612cd43a38ff8c02c44250, type: 3}
+  mClip: {fileID: 8300000, guid: a307a4a9d468adb4b82aac88f5a285b6, type: 3}
+  nClip: {fileID: 8300000, guid: 82ec44ef9e81cc84796fc64710705e27, type: 3}
+  pClip: {fileID: 8300000, guid: 475a3b4f19ac8884aa68f79713821fd3, type: 3}
+  qClip: {fileID: 8300000, guid: 7139183128cbbd6469a382b6ffa893af, type: 3}
+  rClip: {fileID: 8300000, guid: e3959f9ebd78f3a43a0f57f3ba63fbc6, type: 3}
+  sClip: {fileID: 8300000, guid: 65f0f82e680572b4e8cbe601ff008cc7, type: 3}
+  tClip: {fileID: 8300000, guid: fd2c8e784d7db2d43b86d045647ab5e1, type: 3}
+  vClip: {fileID: 8300000, guid: 575e73adfa69fa54197868560a621429, type: 3}
+  wClip: {fileID: 8300000, guid: 36e40212f3381ab40833f0e6228fe744, type: 3}
+  xClip: {fileID: 8300000, guid: c0cb3ec9327dc144c98e76c3a0bc5afd, type: 3}
+  yClip: {fileID: 8300000, guid: 8aa5559516e1c824dadcbb4595fc8f7c, type: 3}
+  zClip: {fileID: 8300000, guid: 65f0f82e680572b4e8cbe601ff008cc7, type: 3}
+  thClip: {fileID: 8300000, guid: fd2c8e784d7db2d43b86d045647ab5e1, type: 3}
+  chClip: {fileID: 8300000, guid: 931d2a04f6314b24cbbd32ea986c3b23, type: 3}
+  phClip: {fileID: 8300000, guid: 4ef70081a6a301d4184688df4365787d, type: 3}
+  ngClip: {fileID: 8300000, guid: eea3de4ca8b0ff94799295181a1ea282, type: 3}
+  shClip: {fileID: 8300000, guid: b87876e0365b8f44c9b03691fed13d94, type: 3}
